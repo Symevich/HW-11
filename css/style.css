@@ -5,4 +5,8 @@ button {
     padding-bottom: 30px;
     border: 2px dotted red;
     background-color: green;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 80px;
 }
